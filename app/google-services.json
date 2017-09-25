@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "412201563082",
+    "firebase_url": "https://mytodolist-e21fc.firebaseio.com",
+    "project_id": "mytodolist-e21fc",
+    "storage_bucket": "mytodolist-e21fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412201563082:android:2d53b37eb7a34977",
+        "android_client_info": {
+          "package_name": "com.example.faiaz.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412201563082-8pn47m0cburnjgudumt4o1rdpa7tt2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9SXom6MVPF4CI2pqMG3YAYB4cnjq-QjU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">412201563082-8pn47m0cburnjgudumt4o1rdpa7tt2n0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mytodolist-e21fc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">412201563082</string>
+    <string name="google_api_key" translatable="false">AIzaSyA9SXom6MVPF4CI2pqMG3YAYB4cnjq-QjU</string>
+    <string name="google_app_id" translatable="false">1:412201563082:android:2d53b37eb7a34977</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA9SXom6MVPF4CI2pqMG3YAYB4cnjq-QjU</string>
+    <string name="google_storage_bucket" translatable="false">mytodolist-e21fc.appspot.com</string>
+</resources>
