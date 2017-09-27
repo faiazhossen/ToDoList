@@ -24,12 +24,12 @@
         "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\b9a78857c3860904074ee883924b80896647c1dd\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\b9a78857c3860904074ee883924b80896647c1dd\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
         "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
         "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\834be4b18112704561d2b0e57dc9b0b64bfde27b\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\b9a78857c3860904074ee883924b80896647c1dd\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",

@@ -116,12 +116,12 @@
         "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\b9a78857c3860904074ee883924b80896647c1dd\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
         "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\834be4b18112704561d2b0e57dc9b0b64bfde27b\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
@@ -144,12 +144,12 @@
         "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\834be4b18112704561d2b0e57dc9b0b64bfde27b\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\b9a78857c3860904074ee883924b80896647c1dd\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
         "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\b9a78857c3860904074ee883924b80896647c1dd\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\b9a78857c3860904074ee883924b80896647c1dd\\output\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
@@ -208,12 +208,12 @@
         "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\834be4b18112704561d2b0e57dc9b0b64bfde27b\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\b9a78857c3860904074ee883924b80896647c1dd\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\b9a78857c3860904074ee883924b80896647c1dd\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\FAIAZ\\.android\\build-cache\\b9a78857c3860904074ee883924b80896647c1dd\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
