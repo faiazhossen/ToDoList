@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
 
-    tools:context="com.example.faiaz.todolist.MyToDoList">
+    tools:context="com.example.faiaz.todolist.activities.MyToDoList">
 
     <LinearLayout
         android:orientation="vertical"

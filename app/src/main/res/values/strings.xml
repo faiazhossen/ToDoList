@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ToDoList</string>
     <string name="add_button">ADD</string>
+    <string name="title_activity_login_with_number">LoginWithNumberActivity</string>
 </resources>

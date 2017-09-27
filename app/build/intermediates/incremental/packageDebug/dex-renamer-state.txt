@@ -1,0 +1,7 @@
+#Wed Sep 27 17:59:16 BDT 2017
+base.0=C\:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9043d213c5d9cd60e8e80c51fe442916e23a70b3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b6db30886db9c0d52710398a59648144cfd381ca\\classes.dex
+base.1=C\:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b6db30886db9c0d52710398a59648144cfd381ca
+file.0=C\:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9043d213c5d9cd60e8e80c51fe442916e23a70b3\\classes.dex
