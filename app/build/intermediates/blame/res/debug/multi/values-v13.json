@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\Android_Workspace\\ToDoList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "outputFile": "C:\\Users\\FAIAZ\\StudioProjects\\ToDoList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "C:\\Users\\Mustafiz\\.android\\build-cache\\c826bb93b312ae76b483279a235143a9bf7c15ee\\output\\res\\values-v13\\values-v13.xml",
+                    "file": "C:\\Users\\FAIAZ\\.android\\build-cache\\b9a78857c3860904074ee883924b80896647c1dd\\output\\res\\values-v13\\values-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
